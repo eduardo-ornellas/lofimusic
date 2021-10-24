@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+body{
+    background-color: rgb(198, 152, 240);
+}
+.title{
+    text-align: center;
+}
+.control {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+     justify-content: center;
+  }
+
+</style>
